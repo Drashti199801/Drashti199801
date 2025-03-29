@@ -1,6 +1,6 @@
 <div align='center'>  
   
-   ### Hi there, I'm Drashti
+   ### Hi there, I'm Drashti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
   # About Me : 👨‍💻
   ##### I am a results-driven professional with experience in developing scalable web applications and transforming raw data into actionable insights. I have worked extensively in **software development** and **data analytics**, leveraging my skills to build dynamic applications and create data-driven solutions. Here is my <a href="https://www.linkedin.com/in/drashti-bhavsar-01/"> Linkedin </a> if you want to reach out and connect☺️. Here is my <a href="https://drashti199801.github.io/My-Portfolio/"> PortFolio website. </a>
@@ -18,17 +18,17 @@
 
 </p>
 
-<p align="center">
+<p>
 
-### 💡 **Integrated Development Environments (IDEs)**  
+## 💡 Integrated Development Environment  
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=blue)  
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=blue)
 
 </p>
 
-<p align="center">
+<p>
 
-### ⚙️ **Programming Languages & Frameworks**  
+## ⚙️ Programming Languages & Frameworks
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)  
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)  
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)  
@@ -49,9 +49,9 @@
 
 </p>
 
-<p align="center">
+<p>
 
-### 📚 **Data & Analytics Tools**  
+## 📚 Data & Analytics Tools
 ![](https://img.shields.io/badge/SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=blueviolet)  
 ![](https://img.shields.io/badge/Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=blueviolet)  
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=blueviolet)  
