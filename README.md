@@ -9,7 +9,7 @@
   
 ## 🔧 **Technologies & Tools**
 
-<p>
+<p align="center">
 
 ### 🖥️ **Operating Systems**  
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)  
@@ -17,7 +17,7 @@
 
 </p>
 
-<p>
+<p align="center">
 
 ### 💡 **Integrated Development Environments (IDEs)**  
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=blue)  
@@ -25,7 +25,7 @@
 
 </p>
 
-<p>
+<p align="center">
 
 ### ⚙️ **Programming Languages & Frameworks**  
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)  
@@ -48,7 +48,7 @@
 
 </p>
 
-<p>
+<p align="center">
 
 ### 📚 **Data & Analytics Tools**  
 ![](https://img.shields.io/badge/SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=blueviolet)  
