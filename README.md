@@ -7,13 +7,14 @@
   
 
   
-## 🔧 **Technologies & Tools**
+# 🔧 Technologies & Tools
+<p>
+  
+  ## Operating Systems  
+  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
 
-<p align="center">
-
-### 🖥️ **Operating Systems**  
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)  
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
+</p>
 
 </p>
 
