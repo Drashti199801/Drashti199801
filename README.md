@@ -57,6 +57,7 @@
 <p>
 
 ## 📚 Data & Analytics Tools
+![](https://img.shields.io/badge/Express.js-informational?style=flat&logoColor=white&color=blueviolet)
    ![](https://img.shields.io/badge/SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=blueviolet)  
    ![](https://img.shields.io/badge/Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=blueviolet)  
    ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=blueviolet)  
