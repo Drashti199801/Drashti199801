@@ -1,6 +1,6 @@
 <div align='center'>  
   
-   ### Hi there, I'm Drashti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+   # Hi there, I'm Drashti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
   # About Me : 👨‍💻
   ##### I am a results-driven professional with experience in developing scalable web applications and transforming raw data into actionable insights. I have worked extensively in **software development** and **data analytics**, leveraging my skills to build dynamic applications and create data-driven solutions. Here is my <a href="https://www.linkedin.com/in/drashti-bhavsar-01/"> Linkedin </a> if you want to reach out and connect☺️. Here is my <a href="https://drashti199801.github.io/My-Portfolio/"> PortFolio website. </a>
