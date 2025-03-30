@@ -58,8 +58,8 @@
 
 ## 📚 Data & Analytics Tools
 ![](https://img.shields.io/badge/Data_Analytics-informational?style=flat&logoColor=white&color=blueviolet)
-   ![](https://img.shields.io/badge/SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=blueviolet)  
-   ![](https://img.shields.io/badge/Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=blueviolet)  
+   ![](https://img.shields.io/badge/SQL_Server-informational?style=flat&logoColor=white&color=blueviolet)  
+   ![](https://img.shields.io/badge/Excel-informational?style=flat&logoColor=white&color=blueviolet)  
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=blueviolet)  
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=blueviolet)  
 ![](https://img.shields.io/badge/Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=blueviolet)  
