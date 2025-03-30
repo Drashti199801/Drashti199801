@@ -58,14 +58,34 @@
 
 ## 📚 Data & Analytics Tools
 ![](https://img.shields.io/badge/Data_Analytics-informational?style=flat&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/SQL_Server-informational?style=flat&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Excel-informational?style=flat&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Pandas-informational?style=flat&logoColor=white&color=blue)
-![](https://img.shields.io/badge/NumPy-informational?style=flat&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Matplotlib-informational?style=flat&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Power_Query-informational?style=flat&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Power_BI-informational?style=flat&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tableau-informational?style=flat&logoColor=white&color=blue)
+![](https://img.shields.io/badge/SQL_Server-informational?style=flat&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Excel-informational?style=flat&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Pandas-informational?style=flat&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/NumPy-informational?style=flat&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Matplotlib-informational?style=flat&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Power_Query-informational?style=flat&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Power_BI-informational?style=flat&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tableau-informational?style=flat&logoColor=white&color=blueviolet)
+
+</p>
+
+## 🛠️ DevOps & Project Management 
+![](https://img.shields.io/badge/Jira_Software-informational?style=flat&logo=jira&logoColor=white&color=blueviolet)  
+![](https://img.shields.io/badge/GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=blueviolet)  
+![](https://img.shields.io/badge/Agile_Methodology-informational?style=flat&logo=scrum&logoColor=white&color=blueviolet)
+
+</p>
+
+<p>
+
+## 🧠 Skills  
+![](https://img.shields.io/badge/Software_Development-informational?style=flat&logoColor=white&color=blue)  
+![](https://img.shields.io/badge/Data_Analytics-informational?style=flat&logoColor=white&color=blue)  
+![](https://img.shields.io/badge/Full_Stack_Development-informational?style=flat&logoColor=white&color=blue)  
+![](https://img.shields.io/badge/ETL_Processes-informational?style=flat&logoColor=white&color=blue)  
+![](https://img.shields.io/badge/Business_Intelligence-informational?style=flat&logoColor=white&color=blue)  
+![](https://img.shields.io/badge/Project_Management-informational?style=flat&logoColor=white&color=blue)  
+![](https://img.shields.io/badge/Version_Control-GitHub/Git-informational?style=flat&logoColor=white&color=blue)
 
 </p>
 
