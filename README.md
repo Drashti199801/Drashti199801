@@ -79,9 +79,6 @@
 <p>
 
 ## 🧠 Skills  
-![](https://img.shields.io/badge/Jira_Software-informational?style=flat&logoColor=white&color=blueviolet) 
-![](https://img.shields.io/badge/GitHub_Actions-informational?style=flat&logoColor=white&color=blueviolet) 
-![](https://img.shields.io/badge/Agile_Methodology-informational?style=flat&logoColor=white&color=blueviolet) 
 ![](https://img.shields.io/badge/Software_Development-informational?style=flat&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Data_Analytics-informational?style=flat&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Full_Stack_Development-informational?style=flat&logoColor=white&color=blue) 
