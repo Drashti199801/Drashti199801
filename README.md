@@ -69,10 +69,10 @@
 </p>
 
 ## 🛠️ DevOps & Project Management 
-![](https://img.shields.io/badge/SQL_Server-informational?style=flat&logoColor=white&color=blueviolet)
+
 ![](https://img.shields.io/badge/Jira_Software-informational?style=flat&logoColor=white&color=blueviolet)  
-![](https://img.shields.io/badge/GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=blueviolet)  
-![](https://img.shields.io/badge/Agile_Methodology-informational?style=flat&logo=scrum&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/GitHub_Actions-informational?style=flat&logoColor=white&color=blueviolet)  
+![](https://img.shields.io/badge/Agile_Methodology-informational?style=flat&logoColor=white&color=blueviolet)
 
 </p>
 
